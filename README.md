@@ -1,3 +1,5 @@
+If you'd like to see the final version of what we're going to build, you can check out the tutorial-steps branch, or look at the final version in this CodeSandbox. https://github.com/reduxjs/redux-fundamentals-example-app/tree/tutorial-steps
+
 # Redux Fundamentals Tutorial Example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
